@@ -1,6 +1,7 @@
 # ІЧ-пульт для Лілки
 
 Застосунок на Lua, який перетворює [Лілку](https://lilka.dev) на універсальний пульт. Вміє вивчати команди з будь-якого побутового пульта і потім надсилати їх сам.
+
 <img width="3858" height="2775" alt="IMG_6078" src="https://github.com/user-attachments/assets/34523548-ea72-4422-b3ab-65dd03ba6966" />
 <img width="3941" height="2823" alt="IMG_6072" src="https://github.com/user-attachments/assets/183851fb-344b-4c3b-a974-b65dd1456b12" />
 
